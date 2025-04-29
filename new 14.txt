@@ -1,0 +1,24 @@
+git config --global user.name "Jessica Jung"
+git config --global user.email jessica.jung@greiner.com
+
+git config --global init.defaultBranch main
+
+git --help
+
+git status
+git commit -m "add a.txt"
+
+git add somefiles
+git status
+git commit -m "adding b c and d"
+git status
+code a.txt
+
+//Create an empty repo
+git init
+
+//Show the working tree status
+git stauts
+
+add file contents to the index
+git add readm 
